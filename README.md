@@ -1,4 +1,4 @@
-# High-Performance Data Engineering Pipeline: Processing 1.2 Billion Records/Hour
+# High-Performance Data Engineering Pipeline: Processing 1 Billion Records/Hour
 
 A comprehensive demonstration of building a scalable, high-throughput data engineering pipeline capable of processing approximately 1.2 billion records per hour. This architecture leverages modern streaming technologies with full monitoring and visualization capabilities.
 
